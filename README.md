@@ -8,23 +8,29 @@ El sistema emplea un microcontrolador ESP32 para adquirir, procesar y transmitir
 
 ## 📸 Galería del Proyecto
 
-### 1. Hardware y Prototipo Físico
+### 1. 📸 Galería del Producto Final
 
-El dispositivo final integra una PCB personalizada y sensores dentro de una carcasa ergonómica impresa en 3D, diseñada para ser portátil y fácil de usar.
+El dispositivo final integra todos los componentes electrónicos (ESP32, sensores, batería) dentro de una carcasa ergonómica impresa en 3D, diseñada para ser un monitor portátil, funcional y fácil de usar.
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center">
-      <b>Prototipo Ensamblado</b><br>
-      <img src="images/img3.jpg" alt="Prototipo 3D ensamblado" width="300">
+      <b>[Descripción de la Imagen 1]</b><br>
+      <img src="images/img1.jpg" alt="Vista 1 del diseño final" width="400">
     </td>
     <td align="center">
-      <b>Diseño de PCB</b><br>
-      <img src="images/img4.jpg" alt="Diseño de la PCB del sistema" width="300">
+      <b>[Descripción de la Imagen 2]</b><br>
+      <img src="images/img2.jpg" alt="Vista 2 del diseño final" width="400">
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center">
+      <b>[Descripción de la Imagen 3]</b><br>
+      <img src="images/img3.jpg" alt="Vista 3 del diseño final" width="400">
     </td>
     <td align="center">
-      <b>Puertos y Encendido</b><br>
-      <img src="images/img5.jpg" alt="Puertos USB-C y switch" width="300">
+      <b>[Descripción de la Imagen 4]</b><br>
+      <img src="images/img4.jpg" alt="Vista 4 del diseño final" width="400">
     </td>
   </tr>
 </table>
