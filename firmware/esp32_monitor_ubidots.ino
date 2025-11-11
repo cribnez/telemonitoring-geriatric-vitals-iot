@@ -35,10 +35,10 @@ uint32_t irBuffer[SAMPLE_WINDOW];
 int sampleIndex = 0;
 
 //*Definimos el Token que nos brinda la plataforma Ubidots para hacer la conexión*/
-const char *UBIDOTS_TOKEN = "BBUS-ofSYt1aDDsXOp2T5sRAHghJMD8ZpId";
+const char *UBIDOTS_TOKEN = "TU_TOKEN_DE_UBIDOTS";
 /*Definimos SSID y PASSWORD de nuestra red WiFi*/
-const char *WIFI_SSID = "TP-Link_89C4";      
-const char *WIFI_PASS = "16916739";     
+const char* WIFI_SSID = "NOMBRE_DE_TU_WIFI";
+const char* WIFI_PASS = "PASSWORD_DE_TU_WIFI";   
 /*Definimos el nombre de nuestro dispositivo, de Ubidots*/
 const char *DEVICE_LABEL = "esp32-salud";
 /*Definimos las variables que se medirán y que serán publicadas en la plataforma Ubidots*/
