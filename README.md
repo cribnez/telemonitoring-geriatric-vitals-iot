@@ -12,7 +12,7 @@ El sistema emplea un microcontrolador ESP32 para adquirir, procesar y transmitir
 
 El dispositivo final integra todos los componentes electrónicos (ESP32, sensores, batería) dentro de una carcasa ergonómica impresa en 3D, diseñada para ser un monitor portátil, funcional y fácil de usar.
 
-<table align="center" style="border: none;">
+**<table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center">
       <b>[Descripción de la Imagen 1]</b><br>
@@ -33,7 +33,7 @@ El dispositivo final integra todos los componentes electrónicos (ESP32, sensore
       <img src="images/img4.jpg" alt="Vista 4 del diseño final" width="400">
     </td>
   </tr>
-</table>
+</table>**
 
 ### 2. Visualización de Datos (Dashboard Ubidots)
 
