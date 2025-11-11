@@ -37,11 +37,11 @@ Los datos se envían en tiempo real a Ubidots para su monitorización remota por
   <tr style="border: none;">
     <td align="center">
       <b>Dashboard Principal (SpO2, BPM, Temp)</b><br>
-      <img src="images/img1.jpg" alt="Dashboard de Ubidots con SpO2, BPM y Temperatura" width="400">
+      <img src="images/dashboard.jpeg" alt="Dashboard de Ubidots con SpO2, BPM y Temperatura" width="400">
     </td>
     <td align="center">
       <b>Señal de ECG en Tiempo Real</b><br>
-      <img src="images/img2.jpg" alt="Señal de ECG en vivo en Ubidots" width="400">
+      <img src="images/ecg.jpeg" alt="Señal de ECG en vivo en Ubidots" width="400">
     </td>
   </tr>
 </table>
@@ -81,8 +81,9 @@ Antes de compilar, abre el archivo `.ino` y modifica las siguientes variables co
 // -- Configuración WiFi --
 const char* WIFI_SSID = "NOMBRE_DE_TU_WIFI";
 const char* WIFI_PASS = "PASSWORD_DE_TU_WIFI";
-```
+
 
 // -- Configuración Ubidots --
 const char* UBIDOTS_TOKEN = "TU_TOKEN_DE_UBIDOTS";
 const char* DEVICE_LABEL = "esp32"; // O el nombre de tu dispositivo
+```
