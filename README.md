@@ -71,6 +71,10 @@ Antes de compilar, abre el archivo `.ino` y modifica las siguientes variables co
 // -- Configuración WiFi --
 const char* WIFI_SSID = "NOMBRE_DE_TU_WIFI";
 const char* WIFI_PASS = "PASSWORD_DE_TU_WIFI";
+
+// -- Configuración Ubidots --
+const char* UBIDOTS_TOKEN = "TU_TOKEN_DE_UBIDOTS";
+const char* DEVICE_LABEL = "esp32"; // O el nombre de tu dispositivo
 ```
 
 ## 📄 Publicación Académica
@@ -91,8 +95,3 @@ El documento completo también se encuentra disponible en la carpeta `docs` de e
   </a>
 </p>
 
-
-// -- Configuración Ubidots --
-const char* UBIDOTS_TOKEN = "TU_TOKEN_DE_UBIDOTS";
-const char* DEVICE_LABEL = "esp32"; // O el nombre de tu dispositivo
-```
