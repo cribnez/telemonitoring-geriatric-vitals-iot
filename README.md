@@ -71,6 +71,25 @@ Antes de compilar, abre el archivo `.ino` y modifica las siguientes variables co
 // -- Configuración WiFi --
 const char* WIFI_SSID = "NOMBRE_DE_TU_WIFI";
 const char* WIFI_PASS = "PASSWORD_DE_TU_WIFI";
+```
+
+## 📄 Publicación Académica
+
+Este proyecto ha sido documentado en la revista *Tecnología Digital*.  
+El documento completo también se encuentra disponible en la carpeta `docs` de este repositorio:
+
+<p align="center">
+  <a href="docs/articulo_signos_vitales_iot.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
+    <br><em>Diseño de un sistema embebido basado en IoT para la monitorización remota de signos vitales en pacientes geriátricos</em>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.revistatecnologiadigital.com/pdf/15_03_003_diseno_sistema_embebido_IoT_monitorizacion_remota_signos_geriatricos.pdf" target="_blank">
+    📎 <em>Acceso al artículo original en la revista Tecnología Digital</em>
+  </a>
+</p>
 
 
 // -- Configuración Ubidots --
